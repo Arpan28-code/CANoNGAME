@@ -252,7 +252,7 @@ ship.velocityY=-4;
     coins7.velocityY=random(-3,15)
     
     
-    canonBall.velocityX = random(-7,20)
+    canonBall.velocityX = random(10,30)
     canonBall.velocityY = random(-8,18)
     gamestate = "play" ;
     
